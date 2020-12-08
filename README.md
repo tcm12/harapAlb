@@ -4,6 +4,6 @@ so you don't have to start from the first one all over again.
 
 The most challanging part was the Save part.
 
-I was a fun journey and I learned a lot from working on this game.
+It was a fun journey and I learned a lot from working on this game.
 
 You can find the C# code inside ./Assets/Scripts
